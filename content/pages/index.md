@@ -7,7 +7,7 @@ sections:
     content: >-
       **April 14 - 16, 2021**
     actions:
-      - label: Get Your Ticket Today!
+      - label: Lel
         url: /about
         style: primary
     align: center
